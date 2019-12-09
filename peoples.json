@@ -47,6 +47,12 @@
     "deskCoordinate": "5;2",
     "promo"   : 2020
   },
+   {
+    "name"    : "Corentin",
+    "github"  : "https://github.com/corentin-tech",
+    "deskCoordinate": "5;1",
+    "promo"   : 2020
+  },
     {
     "name"    : "Jérôme BC",
     "github"  : "https://github.com/jerome05230",
