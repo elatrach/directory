@@ -46,5 +46,15 @@
     "github"  : "https://github.com/jerome05230",
     "linkdin" : "https://www.linkedin.com/in/j%C3%A9r%C3%B4me-baron-campos/",
     "promo"   : 2018
-  }
+  },
+  {
+    "name"    : "Youssef",
+    "github"  : "https://github.com/elatrach",
+    "promo"   : 2020
+  },
+    {
+    "name"    : "Corentin",
+    "github"  : "https://github.com/corentin-tech",
+    "promo"   : 2020
+  },
 ]
