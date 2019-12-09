@@ -85,5 +85,11 @@
     "github"  : "https://github.com/gabrielbarneaud",
     "deskCoordinate": "3;3",
     "promo"   : 2020
+  },
+  {
+    "name"    : "Youssef",
+    "github"  : "https://github.com/elatrach",
+    "deskCoordinate": "5;2",
+    "promo"   : 2020
   }
 ]
